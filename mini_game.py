@@ -648,7 +648,7 @@ LEXIQUE :
 dans ce programme il y à un certain nombre de fonctions qui te permet de faire un certain nombre de choses, en voici la liste et ce que elle fonts
 
 1 ) move() :: fait avancer Harry dans la direction vers la quel il regarde , il peut regarder vers NORTH, SOUTH, WEST, EAST
-2 ) turn_left() :: fait tourner Harry de 90 degré vers la DROITE, si il regarde vers le NORTH et que tu utilise cette ofnction il regardera vers le WEST
+2 ) turn_left() :: fait tourner Harry de 90 degré vers la GAUCHE, si il regarde vers le NORTH et que tu utilise cette ofnction il regardera vers le WEST
 3 ) turn_right() :: fait tourner Harry de 90 degré vers la DROITE, si il regarde vers le NORTH et que tu utilise cette ofnction il regardera vers le EAST
 
 4 ) can move() :: Revoi False si Harry se trouve en face d'un mur et renvoi True en face de toute autre chose, ATTENTION : ne détecte pas les monstre
